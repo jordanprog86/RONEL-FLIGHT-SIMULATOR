@@ -64,3 +64,4 @@ https://youtu.be/8bt8HuMchK8
 ## Author
 - Ronel Tchoulayeu
 - C++/Qt Developer, Embedded System Engineer
+- Jordanprog@yahoo.fr
