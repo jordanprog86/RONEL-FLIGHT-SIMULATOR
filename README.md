@@ -61,3 +61,6 @@ Everything is generated procedurally: the jet, the terrain, the airport, the sky
 
 ## Demo Videos
 https://youtu.be/8bt8HuMchK8
+## Author
+- Ronel Tchoulayeu
+- C++/Qt Developer, Embedded System Engineer
